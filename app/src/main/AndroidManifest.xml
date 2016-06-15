@@ -34,7 +34,7 @@
         <meta-data android:name="VERSION" android:value="2" />
         <meta-data android:name="QUERY_LOG" android:value="true" />
         <meta-data android:name="DOMAIN_PACKAGE_NAME" android:value="andronerds.com.contestapp" />
-        <meta-data android:name="com.google.android.maps.v2.API_KEY" android:value="AIzaSyB-3LSd0UKmtLRO87Y--KRf-3iqJrbtfyY"/>
+        <meta-data android:name="com.google.android.maps.v2.API_KEY" android:value="<API-Key here"/>
 
         <activity
             android:name=".LoginActivity"
